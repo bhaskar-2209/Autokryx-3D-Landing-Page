@@ -7,7 +7,7 @@ Designed to transform the digital presence of Autokryx into a futuristic, enterp
 
 ---
 
-## 🚀 Overview
+## 🚀 Overview:
 
 This project is a redesign of the **Autokryx flagship website**, focused on creating a premium digital experience while maintaining the company's existing brand identity.
 
